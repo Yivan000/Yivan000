@@ -9,6 +9,7 @@ I program stuff for fun!
 | App | AralTools | [tudlang/araltools](https://github.com/tudlang/araltools) | An app containing a suite of tools for students. Available on Windows. | Dart |
 | Package | lrc | [Yivan000/lrc](https://github.com/Yivan000/lrc) | A package that parses LRC-formatted strings | Dart
 | Core package | Sabangan | [Yivan000/sabangan](https://github.com/Yivan000/sabangan) | The core for generating packages that contains all unit conversions for all categories. | CSV
+| Package | sabangan_dart | [Yivan000/sabangan_dart](https://github.com/Yivan000/sabangan_dart) | A Dart implementation of Sabangan | Dart
 | Joke | Lyricode | [Yivan000/lyricode](https://github.com/Yivan000/lyricode) | Song lyrics ... turned code! | Java, Dart, Kotlin, JavaScript, Lua
 
 ## Other profiles
