@@ -1,6 +1,16 @@
 ## Hi there 👋
 I program stuff for fun! 
 
+## My published projects
+| Type | Name | Repository | Description | Languages used |
+|---|---|---|---|---|
+| App | DepEd Baguio Customer Communications App (CCApp) | Private | An app that enables users to send feedback/complaints/suggestions to the Department of Education - Schools Division Office of Baguio. Available on Android & Web. | Java, Kotlin, JavaScript, Dart 
+| App | Salita | [tudlang/salita](https://github.com/tudlang/salita) | An all-in-one dictionary based on Wiktionary data. Available on Android, Windows, & Web. | Dart |
+| App | AralTools | [tudlang/araltools](https://github.com/tudlang/araltools) | An app containing a suite of tools for students. Available on Windows. | Dart |
+| Package | lrc | [Yivan000/lrc](https://github.com/Yivan000/lrc) | A package that parses LRC-formatted strings | Dart
+| Core | Sabangan | [Yivan000/sabangan](https://github.com/Yivan000/sabangan) | Contains all unit conversions for all categories | CSV
+| Joke | Lyricode | [Yivan000/lyricode](https://github.com/Yivan000/lyricode) | Song lyrics ... turned code! | Java, Dart, Kotlin, Javascript, Lua
+
 ## Other profiles
 ### Wikis
 * [English Wikibooks](https://en.wikibooks.org/wiki/User:Yivan000)
