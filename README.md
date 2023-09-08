@@ -8,8 +8,8 @@ I program stuff for fun!
 | App | Salita | [tudlang/salita](https://github.com/tudlang/salita) | An all-in-one dictionary based on Wiktionary data. Available on Android, Windows, & Web. | Dart |
 | App | AralTools | [tudlang/araltools](https://github.com/tudlang/araltools) | An app containing a suite of tools for students. Available on Windows. | Dart |
 | Package | lrc | [Yivan000/lrc](https://github.com/Yivan000/lrc) | A package that parses LRC-formatted strings | Dart
-| Core | Sabangan | [Yivan000/sabangan](https://github.com/Yivan000/sabangan) | Contains all unit conversions for all categories | CSV
-| Joke | Lyricode | [Yivan000/lyricode](https://github.com/Yivan000/lyricode) | Song lyrics ... turned code! | Java, Dart, Kotlin, Javascript, Lua
+| Core package | Sabangan | [Yivan000/sabangan](https://github.com/Yivan000/sabangan) | The core for generating packages that contains all unit conversions for all categories. | CSV
+| Joke | Lyricode | [Yivan000/lyricode](https://github.com/Yivan000/lyricode) | Song lyrics ... turned code! | Java, Dart, Kotlin, JavaScript, Lua
 
 ## Other profiles
 ### Wikis
