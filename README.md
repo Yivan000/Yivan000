@@ -20,7 +20,7 @@ I program stuff for fun!
 * [English Wiktionary](https://en.wiktionary.org/wiki/User:Yivan000)
 * [Wikidata](https://wikidadta.org/wiki/User:Yivan000)
 * [FTB Wiki](https://ftb.fandom.com/wiki/User:Yivan000)
-* [Minecraft Wiki](https://minecraft.fandom.com/wiki/User:Yivan000)
+* [Minecraft Wiki](https://minecraft.wiki/w/User:Yivan000)
 * [Translatewiki](https://translatewiki.org/wiki/User:Yivan000)
 * [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/User:Yivan000)
 ### Others 
